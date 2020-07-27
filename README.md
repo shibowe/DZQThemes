@@ -1,2 +1,1 @@
-# DZQThemes
-The Template of UI for Discuz Q.
+# The Themes of Discuz Q! 
