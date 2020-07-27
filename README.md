@@ -1,8 +1,8 @@
-# The Themes of Discuz Q!  
+# DiscuzQ主题模板汇总(The Themes of Discuz Q!)  
 感谢关注本项目!  
 DZQTehems收集并整理Discuz新产品：Discuz Q!的主题模板.  
 
-## 提交规则  
+## 提交规则(The Submission Rules)  
 1.Fork本项目后,暂且以年+月的形式将您开发的主题模板及资料上传到指定目录  
 2.在 **主题贡献** 模块加入模板介绍  
 
