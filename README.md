@@ -11,7 +11,7 @@ DZQTehems收集并整理Discuz新产品：Discuz Q!的主题模板.
 - Vue VSCode Snippets
 - JavaScript(ES6) Snippets ESDoc  
 
-## 编码规范  
+## 编码规范(Coding Standards)  
 1. [JavaScript 代码规范](./.github/JAVASCRIPT_STYLE.md)
-2. [Css&Scss 代码规范](./.github/CSS_STYLE.md)
+2. [CSS&SCSS 代码规范](./.github/CSS_STYLE.md)
 3. [命名约定](./.github/NAMING.md)  
